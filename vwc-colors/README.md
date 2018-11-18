@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "vwc-colors"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# VetsWhoCode - Freedom VS Code color scheme for Veterans and Military
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Please use if you are feeling patriotic and need some more FREEDOM in your life and code!
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## From [VetsWhoCode](https://vetswhocode.io/) 2018 enjoy!
 
-**Enjoy!**
+![Screen Shot](./images/screenShot.png)

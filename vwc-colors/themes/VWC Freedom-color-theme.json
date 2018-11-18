@@ -5,8 +5,8 @@
     //Editor
     "editor.background": "#1b3647",
     "editor.foreground": "#d4d4d4",
-    "editor.selectionBackground": "#4098eb",
-    "editor.selectionForeground": "#4098eb",
+    "editor.selectionBackground": "#216eb6",
+    "editor.selectionForeground": "#216eb6",
     "editor.lineHighlightBackground": "#1f3e52",
     "editor.lineHighlightBorder": "#204155",
 
@@ -18,7 +18,7 @@
 
     //Activity Bar
 
-    "activityBar.background": "#1b3647",
+    "activityBar.background": "#1c394b",
     "activityBar.border": "#b12d3e",
     "activityBarBadge.background": "#eb3d54",
 

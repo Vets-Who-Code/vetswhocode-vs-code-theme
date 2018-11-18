@@ -1,21 +1,22 @@
 {
-    "name": "vwc-colors",
-    "displayName": "VWC_Colors",
-    "description": "Patriotic colors to enable veterans to code with freedom!",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.29.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "VWC Freedom",
-                "uiTheme": "vs-dark",
-                "path": "./themes/VWC Freedom-color-theme.json"
-            }
-        ]
-    }
+  "name": "vwc-colors",
+  "publisher": "bradhankee",
+  "displayName": "VWC_Colors",
+  "description": "Patriotic colors to enable veterans to code with freedom!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.29.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VWC Freedom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VWC Freedom-color-theme.json"
+      }
+    ]
+  }
 }

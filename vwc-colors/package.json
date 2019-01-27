@@ -3,7 +3,7 @@
   "publisher": "bradhankee",
   "displayName": "VWC_Colors",
   "description": "Patriotic colors to enable veterans to code with freedom!",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.29.0"
   },

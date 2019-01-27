@@ -3,7 +3,7 @@
   "publisher": "bradhankee",
   "displayName": "VWC_Colors",
   "description": "Patriotic colors to enable veterans to code with freedom!",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.29.0"
   },
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bhankee/VWC-Editor-Color-Scheme/"
+    "url": "https://github.com/bhankee/VWC-Editor-Color-Scheme"
   },
   "contributes": {
     "themes": [

@@ -31,7 +31,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "italic, bold, underline, strikethrough",
         "foreground": "#21e6e6"
       }
     },

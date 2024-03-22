@@ -1,8 +1,4 @@
-To expand on your description for the HashFlag VS Code color scheme by VetsWhoCode, you might consider adding more details about the theme's design philosophy, color choices, and how it aims to inspire or support its users. Here’s a suggestion on how you can enrich the description:
-
----
-
-# HashFlag - A Military Inspired VS Code Color Scheme by VetsWhoCode
+# HashFlag - A Military Inspired VS Code Color Theme by VetsWhoCode
 
 Imbue your development environment with the spirit of freedom and the valor of the armed forces with the HashFlag color scheme, meticulously crafted for patriots, veterans, and anyone who cherishes liberty. This theme is more than just colors on a screen; it's a salute to the bravery, sacrifice, and honor of those who have served. Embrace a touch of patriotism as you code, letting the rich, inspired palette boost your morale and drive your innovation.
 
@@ -34,7 +30,3 @@ From [VetsWhoCode](https://vetswhocode.io/) to you, enjoy this theme and let it 
 ### Support VetsWhoCode
 
 Your use of the HashFlag theme does more than just personalize your development environment; it supports [VetsWhoCode](https://vetswhocode.io/), an organization dedicated to empowering veterans through technology. Consider contributing, either by coding, mentoring, or donating, to help us continue our mission of service and innovation.
-
----
-
-This expanded description provides a deeper insight into the theme's background, enhances its appeal by connecting it with its military-inspired roots, and encourages users to support the cause behind it.

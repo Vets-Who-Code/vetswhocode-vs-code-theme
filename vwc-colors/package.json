@@ -26,6 +26,6 @@
   "galleryBanner": {
     "color": "#091f40", 
     "theme": "dark",
-    "icon": "./images/hashflag.jpeg"
+    "icon": "./images/hashflag.png"
   }
 }

@@ -22,5 +22,9 @@
         "path": "./themes/hashflag-color-theme.json"
       }
     ]
-  }
+  },
+  "galleryBanner": {
+    "color": "#091f40", 
+    "theme": "dark",
+    "icon": "./images/hashflag.jpeg"
 }

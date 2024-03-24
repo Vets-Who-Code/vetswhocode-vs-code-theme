@@ -1,32 +1,36 @@
+```markdown
 # HashFlag - A Military Inspired VS Code Color Theme by VetsWhoCode
 
-Imbue your development environment with the spirit of freedom and the valor of the armed forces with the HashFlag color scheme, meticulously crafted for patriots, veterans, and anyone who cherishes liberty. This theme is more than just colors on a screen; it's a salute to the bravery, sacrifice, and honor of those who have served. Embrace a touch of patriotism as you code, letting the rich, inspired palette boost your morale and drive your innovation.
+Welcome to HashFlag, a VS Code color theme designed with the valor and spirit of the military in mind. This theme is a tribute to the courage, sacrifice, and honor of our service members, offering users a patriotic coding experience. Brought to you by [VetsWhoCode](https://vetswhocode.io/), a non-profit organization dedicated to helping veterans transition into technology careers, HashFlag stands as a symbol of discipline, respect, and excellence.
 
-## Inspired by Heroes, For the Innovators
+## A Salute to Service, A Tool for Innovation
 
-Designed by [VetsWhoCode](https://vetswhocode.io/), a non-profit dedicated to transitioning military veterans into the world of technology, HashFlag embodies the principles of discipline, respect, and excellence. Our color choices reflect the depth and integrity of military uniforms, the bright sparks of valor, and the solemnity of service. With every line of code, feel the supportive camaraderie of those who've walked the path of duty and now embark on the journey of creation and technology.
+HashFlag is not just a color theme; it's an expression of gratitude to those who have served and a tool for those who continue to innovate. Our colors are inspired by the depth of military uniforms, the bright moments of valor, and the solemnity of service. This theme is designed to inspire and uplift, bringing the essence of camaraderie and the spirit of duty to your development work.
 
 ### Features
-- **Patriotic Palette**: A color scheme that's not only easy on the eyes but also fills you with a sense of purpose. Navy blues, army greens, and accents of red and gold evoke the essence of military regalia and the American flag.
-- **Optimized for Readability**: Carefully selected contrasts minimize eye strain during long coding sessions, making it ideal for veterans and civilians alike who demand excellence and comfort from their tools.
-- **Universal Appeal**: Whether you're building the next big app or crunching through debugging sessions, HashFlag is versatile enough to enhance your workflow and inspire your best work.
 
-### Join Us in Celebrating Freedom in Coding
+- **Patriotic Palette**: Experience a color scheme that's visually appealing and emotionally resonant. Navy blues, army greens, and bold accents of red and gold capture the essence of military service and the American flag.
+- **Optimized for Readability**: With contrasts designed to reduce eye strain, HashFlag is perfect for long coding sessions, offering comfort and excellence to all users, regardless of their background.
+- **Universal Appeal**: HashFlag enhances your workflow whether you're debugging, developing, or dreaming up the next big idea. It's a theme that elevates your work and your workspace.
 
-HashFlag is more than a theme; it's a statement. By choosing it, you're not only elevating your coding experience but also honoring the values that veterans have fought to protect. Feel the freedom of expression in your work, the liberty of open-source collaboration, and the pride of contributing to projects that matter.
+### Embrace Freedom and Innovation
 
-From [VetsWhoCode](https://vetswhocode.io/) to you, enjoy this theme and let it serve as a reminder of the beauty of freedom, not just in the world, but in the realm of code where anything is possible.
-
-![Embrace Freedom with the VWC Theme](images/ScreenShot.png)
+HashFlag invites you to code with freedom and pride, celebrating the principles and values that veterans have defended. It's an opportunity to express yourself in your work, engage in open-source collaboration, and contribute to meaningful projects. Let this theme remind you of the freedom we cherish and the infinite possibilities within the world of coding.
 
 ### How to Install
 
-1. Open the Extensions sidebar in VS Code. `View → Extensions`
-2. Search for `HashFlag`, and find the one by `VetsWhoCode`.
-3. Click `Install` to install it.
-4. Click `Reload` to reload your editor.
-5. Activate the theme by navigating to the Command Palette `View → Command Palette` or `Cmd+Shift+P`, then typing `Theme`, and selecting `Color Theme → HashFlag`.
+1. Open VS Code and navigate to `View → Extensions`.
+2. Search for `HashFlag` and look for the theme by `VetsWhoCode`.
+3. Click `Install`, then `Reload` to refresh your editor.
+4. Activate HashFlag by opening the Command Palette with `View → Command Palette` or `Cmd+Shift+P`, type `Theme`, and select `Color Theme → HashFlag`.
 
-### Support VetsWhoCode
+### Support Our Mission
 
-Your use of the HashFlag theme does more than just personalize your development environment; it supports [VetsWhoCode](https://vetswhocode.io/), an organization dedicated to empowering veterans through technology. Consider contributing, either by coding, mentoring, or donating, to help us continue our mission of service and innovation.
+By choosing HashFlag, you're not only enhancing your coding environment but also supporting [VetsWhoCode](https://vetswhocode.io/). We empower veterans through technology, offering coding education, mentoring, and career support. Consider making a donation today to help us continue our mission. Your support enables us to serve those who've served, building a bridge from the battlefield to the tech field.
+
+**[Donate to VetsWhoCode](https://vetswhocode.io/donate)**
+
+Join us in making a difference, one line of code at a time.
+
+![Embrace Freedom with the VWC Theme](images/ScreenShot.png)
+```

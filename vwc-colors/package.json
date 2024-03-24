@@ -3,7 +3,7 @@
   "publisher": "OfficialVetsWhoCode",
   "displayName": "HashFlag",
   "description": "A High contrast programming theme inspired by the colors of Vets Who Code",
-  "version": "2.2.6",
+  "version": "2.3.0",
   "engines": {
     "vscode": "^1.29.0"
   },
@@ -22,9 +22,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "HashFlag",
+        "label": "HashFlag High Contrast Dark",
         "uiTheme": "hc-black",
-        "path": "./themes/hashflag-color-theme.json"
+        "path": "./themes/hashflag-high-contrast-dark-color-theme.json"
+      },
+      {
+        "label": "HashFlag High Contrast Light",
+        "uiTheme": "hc-light",
+        "path": "./themes/hashflag-high-contrast-light-color-theme.json"
+      },
+      {
+        "label": "HashFlag Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hashflag-dark-color-theme.json"
+      },
+      {
+        "label": "HashFlag Light",
+        "uiTheme": "vs",
+        "path": "./themes/hashflag-light-color-theme.json"
       }
     ]
   }

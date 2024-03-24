@@ -1,6 +1,6 @@
 {
-  "name": "HashFlag",
-  "type": "hc-black",
+  "name": "HashFlag Dark",
+  "type": "dark",
   "colors": {
     "editor.background": "#091f40",
     "editor.foreground": "#d4d4d4",

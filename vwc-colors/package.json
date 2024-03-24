@@ -3,13 +3,18 @@
   "publisher": "OfficialVetsWhoCode",
   "displayName": "HashFlag",
   "description": "A High contrast programming theme inspired by the colors of Vets Who Code",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "engines": {
     "vscode": "^1.29.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "./images/hashflag.png",
+  "galleryBanner": {
+    "color": "#091f40", 
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Vets-Who-Code/vetswhocode-vs-code-theme.git"
@@ -22,10 +27,5 @@
         "path": "./themes/hashflag-color-theme.json"
       }
     ]
-  },
-  "galleryBanner": {
-    "color": "#091f40", 
-    "theme": "dark",
-    "icon": "https://res.cloudinary.com/vetswhocode/image/upload/v1609084190/hashflag-white-vscode_n5k5db.jpg"
   }
 }

@@ -3,7 +3,7 @@
   "publisher": "OfficialVetsWhoCode",
   "displayName": "HashFlag",
   "description": "A High contrast programming theme inspired by the colors of Vets Who Code",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "engines": {
     "vscode": "^1.29.0"
   },

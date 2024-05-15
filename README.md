@@ -1,4 +1,4 @@
-```markdown
+
 # HashFlag - A Military Inspired VS Code Color Theme by VetsWhoCode
 
 Welcome to HashFlag, a VS Code color theme designed with the valor and spirit of the military in mind. This theme is a tribute to the courage, sacrifice, and honor of our service members, offering users a patriotic coding experience. Brought to you by [VetsWhoCode](https://vetswhocode.io/), a non-profit organization dedicated to helping veterans transition into technology careers, HashFlag stands as a symbol of discipline, respect, and excellence.
@@ -33,4 +33,3 @@ By choosing HashFlag, you're not only enhancing your coding environment but also
 Join us in making a difference, one line of code at a time.
 
 ![Embrace Freedom with the VWC Theme](images/ScreenShot.png)
-```

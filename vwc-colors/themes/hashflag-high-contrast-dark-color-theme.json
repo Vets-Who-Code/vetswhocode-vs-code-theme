@@ -18,6 +18,7 @@
     "statusBar.background": "#091f40",
     "statusBar.foreground": "#ffffff"
   },
+  "editor.fontFamily": "SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace",
   "tokenColors": [
     {
       "settings": {
@@ -31,7 +32,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic, bold, underline, strikethrough",
+        "fontStyle": "italic bold",
         "foreground": "#21e6e6"
       }
     },

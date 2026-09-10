@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "HashFlag High Contrast Dark",
-  "type": "dark",
+  "type": "hcDark",
   "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#fdb330",
